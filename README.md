@@ -1,15 +1,8 @@
 ## Hi, I am Felipe Félix, passionate about technology!
 
-<!--
-**ffelixtrc/ffelixtrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on IT Infrastructure
 - 🌱 I’m currently learning about DevOps
 - 👯 I’m looking to collaborate on DevOps projects and Communities
-
-
 
 <div align="center">
   <a href="https://github.com/ffelixtrc">
