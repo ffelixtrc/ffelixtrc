@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on IT Infrastructure
 - 🌱 I’m currently learning about DevOps
 - 👯 I’m looking to collaborate on DevOps projects and Communities
-
+<br>
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/ffelixtrc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffelixtrc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -30,6 +32,7 @@
   <a href="https://instagram.com/o_felipefelix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/o_felipefelix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:ffelix.trc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br>
   <br>
   <br>
    ![Snake animation](https://github.com/ffelixtrc/ffelixtrc/blob/output/github-contribution-grid-snake.svg)
