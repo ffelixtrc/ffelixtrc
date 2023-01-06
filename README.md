@@ -1,8 +1,8 @@
-# Hi, I'm Felipe Felix, passionate about technology!
+# Hi, I'm Felipe Felix.
 
-- 🔭 I’m currently working on IT Infrastructure
-- 🌱 I’m currently learning about DevOps and Front End
-- 👯 I’m looking to collaborate on DevOps projects and Communities
+### - 🔭 I’m currently working on IT Infrastructure Manager.
+### - 🌱 I am currently expanding my knowledge about DevOps and Front End
+### - 👯 I’m looking to collaborate on DevOps projects and Communities
 <br>
 <br>
 <br>
