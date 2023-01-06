@@ -47,6 +47,6 @@
 </div>
 
 <div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
 </div>
 
