@@ -47,6 +47,6 @@
 </div>
 
 <div align="center">
-  <p>Créditos:<a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
+  <p>Créditos:<br><a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
 </div>
 
