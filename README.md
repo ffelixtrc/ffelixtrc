@@ -9,6 +9,7 @@
 <div align="center">
   <a href="https://github.com/ffelixtrc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffelixtrc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffelixtrc&theme=github_dark&hide_border=false&&layout=compact"/>
 </div>
   <br>
   <br>
