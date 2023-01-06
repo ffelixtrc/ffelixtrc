@@ -1,4 +1,4 @@
-# Hi, I am Felipe Félix, passionate about technology!
+# Hi, I'm Felipe Felix, passionate about technology!
 
 - 🔭 I’m currently working on IT Infrastructure
 - 🌱 I’m currently learning about DevOps
