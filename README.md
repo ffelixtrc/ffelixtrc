@@ -1,7 +1,7 @@
 # Hi, I'm Felipe Felix.
 
 ### - 🔭 I’m currently working on IT Infrastructure Manager.
-### - 🌱 Expanding my knowledge about DevOps and Front End
+### - 🌱 Expanding my knowledge about Infrastructure and DevOps
 ### - 👯 Looking to collaborate on DevOps projects and Communities
 <br>
 <br>
